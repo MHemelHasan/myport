@@ -49,6 +49,7 @@ const Head = ({ title, description, image }) => {
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
+      <meta property="og:description" content="WordPress Developer, Gsap Developer, WordPress plugin Developer, BlockChain Developer, WordPress Developer in Dhaka, FrontEnd Developer" />
       <meta property="og:image" content={seo.image} />
       <meta property="og:url" content={seo.url} />
       <meta property="og:type" content="website" />

@@ -1,14 +1,14 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "mhemelhasan",
+  "description": "M Hemel Hasan Portfolio.",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Mhemel Hasan <hemelsrgmts@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/MHemelHasan"
   },
   "keywords": [
-    "gatsby"
+    "WordPress Developer, Gsap Developer, WordPress plugin Developer, BlockChain Developer, WordPress Developer in Dhaka, FrontEnd Developer"
   ],
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
