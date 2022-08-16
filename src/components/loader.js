@@ -5,6 +5,8 @@ import anime from 'animejs';
 import styled from 'styled-components';
 import { IconLoader } from '@components/icons';
 
+// https://codepen.io/GreenSock/pen/eYdyVVe
+
 const StyledLoader = styled.div`
   ${({ theme }) => theme.mixins.flexCenter};
   position: fixed;
