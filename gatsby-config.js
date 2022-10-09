@@ -2,12 +2,13 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'MHemel Hasan Portfolio',
+    title: 'M Hemel Hasan Portfolio',
     description:
       'Hemel Hasan is a software engineer who specializes in WordPress Development, React Development, Blockchain Development exceptional digital experiences.',
     siteUrl: 'https://mhemelhasan.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@mhemelhasan',
+    wordpressorg: 'hemelhasan',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

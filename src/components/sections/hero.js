@@ -64,7 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-          I'm a software engineer specializing in creating exceptional digital experiences (WordPress, React, Blockchain). I am currently working on Blockchain and WordPress. My front-end specialty is GSAP {' '}
+        I'm a software engineer specializing in creating exceptional digital experiences (WordPress,
+        React, Blockchain). I am currently working on Blockchain and WordPress. My front-end
+        specialty is GSAP{' '}
         <a href="https://mhemelhasan.com/" target="_blank" rel="noreferrer">
           Check My Work
         </a>
@@ -73,12 +75,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="#about" rel="noreferrer">
+      Check out more!
     </a>
   );
 
