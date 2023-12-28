@@ -16,7 +16,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "npm run develop --openssl-legacy-provider",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",

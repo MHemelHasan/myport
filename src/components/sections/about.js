@@ -135,25 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is M Hemel Hasan and I enjoy creating things on the internet. My interest in web development started back in 2010 when I decided to try convert PSD to HTML themes — and making free themes for blogger, That taught me a lot about HTML &amp; CSS at the same time!
+              Hello! My name is M Hemel Hasan and I enjoy creating things on the internet. My
+              interest in web development started back in 2010 when I decided to try convert PSD to
+              HTML themes — and making free themes for blogger, That taught me a lot about HTML
+              &amp; CSS at the same time!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              computer software solution,{' '}
-              Desh Team,{' '}
-              SoftTech, and{' '}
-              And UpWork. My main focus these days is to create affordable, international quality products and digital experiences for various clients.
+              Fast-forward to today, and I’ve had the privilege of working at computer software
+              solution, Desh Team, SoftTech, and And UpWork. My main focus these days is to create
+              affordable, international quality products and digital experiences for various
+              clients.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
+            <p></p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
