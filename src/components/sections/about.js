@@ -5,9 +5,8 @@ import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
+// max-width: 900px;
 const StyledAboutSection = styled.section`
-  max-width: 900px;
-
   .inner {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -135,22 +134,38 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is M Hemel Hasan and I enjoy creating things on the internet. My
-              interest in web development started back in 2010 when I decided to try convert PSD to
-              HTML themes — and making free themes for blogger, That taught me a lot about HTML
-              &amp; CSS at the same time!
+              Greetings! I'm M Hemel Hasan, a passionate web developer with a journey that commenced
+              in 2010. My initial foray into web development involved converting PSD to HTML themes
+              and crafting free themes for Blogger. This hands-on experience ignited my fascination
+              with HTML &amp; CSS, laying the foundation for my journey into the world of web
+              development.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at computer software
-              solution, Desh Team, SoftTech, and And UpWork. My main focus these days is to create
-              affordable, international quality products and digital experiences for various
-              clients.
+              Over the years, I've had the honor of contributing to renowned organizations such as
+              Computer Software Solution, Desh Team, SoftTech, and collaborating with clients on
+              UpWork. Today, my primary focus revolves around crafting affordable, internationally
+              acclaimed products, and delivering exceptional digital experiences.
+            </p>
+
+            <p>
+              In addition to my work in conventional web development, I've ventured into the dynamic
+              realm of NFTs. I recently developed an all-encompassing NFT Marketplace using Node.js
+              and React for the frontend, covering the entire spectrum of the NFT marketplace
+              ecosystem.
+            </p>
+
+            <p>
+              Currently, at Themefic, I am actively involved in WordPress plugin development.
+              Leveraging my expertise, I am working on creating innovative plugins to enhance the
+              functionality and user experience of WordPress websites. This endeavor allows me to
+              stay at the forefront of technological advancements in both conventional and niche
+              areas of web development.
             </p>
 
             <p></p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here's a snapshot of the technologies I've been actively engaged with:</p>
           </div>
 
           <ul className="skills-list">
@@ -162,15 +177,26 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/mhemelhasan.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
+              alt="mhemelhasan"
             />
           </div>
         </StyledPic>
       </div>
+
+      <p className="mt-2">
+        This journey has equipped me with the skills to bring ideas to life on the internet. I'm
+        dedicated to pushing the boundaries of creativity and technology to deliver innovative
+        solutions for my clients.
+      </p>
+
+      <p>
+        Feel free to explore my portfolio and discover how I can contribute to your digital
+        endeavors!
+      </p>
     </StyledAboutSection>
   );
 };

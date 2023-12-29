@@ -58,19 +58,22 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
+  // into
+  // With expertise extending to both frontend and backend development, I ensure seamless user interfaces with a focus on GSAP. Explore my portfolio to witness the results of my commitment to delivering innovative solutions across the entire development spectrum.
+
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">M Hemel Hasan.</h2>;
   const three = <h3 className="big-heading">I make things for the web.</h3>;
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in creating exceptional digital experiences (WordPress,
-        React, Blockchain). I am currently working on Blockchain and WordPress. My front-end
-        specialty is GSAP{' '}
-        <a href="https://mhemelhasan.com/" target="_blank" rel="noreferrer">
-          Check My Work
+        I'm a versatile software engineer specializing in WordPress, React, and Blockchain
+        technologies. Currently, I'm deeply immersed in WordPress plugin development and React
+        projects, demonstrating my proficiency in creating exceptional digital experiences.
+        <br />
+        <a href="#projects" rel="noreferrer">
+          Check my work
         </a>
-        .
       </p>
     </>
   );
