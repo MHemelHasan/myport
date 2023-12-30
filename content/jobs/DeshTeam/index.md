@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2014-01-21'
+title: 'FrontEnd Developer'
+company: 'DeshTeam'
+location: 'Dhaka, Bangladesh'
+range: 'July 2014 - December 2016'
+url: '#'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

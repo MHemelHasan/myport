@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+date: '2017-01-01'
+title: 'WordPress Theme Dev'
+company: 'Freelancing'
 location: 'Boston, MA'
-range: 'July - December 2015'
+range: 'January 2017 - August 2018'
 url: 'https://us.mullenlowe.com/'
 ---
 

@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-06-13'
+title: 'WordPress Plugin Engineer'
+company: 'Themefic'
+location: 'Dhaka, Bangladesh'
+range: 'Jun 2022 - Present'
+url: 'https://themefic.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
